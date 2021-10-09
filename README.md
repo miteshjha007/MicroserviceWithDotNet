@@ -75,6 +75,10 @@
 	docker-compose -f .\docker-compose.yml -f .\docker-compose.override.yml up -d
 
 
+#      BAsket service architecture.
+	![image](https://user-images.githubusercontent.com/75416010/136662202-80fe08fe-080d-4662-9bb2-c573ecb704e4.png)
+
+
 
 
 	
